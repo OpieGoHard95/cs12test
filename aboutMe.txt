@@ -2,5 +2,6 @@ My name is Jared Smith
 I'm from Fortville Indiana
 I go to school at SJC
 I enjoy Javascript a whole helluva lot more than Java so far
+Collin is a mother truckin tool but I love him because he secretly loves me ;)
 
 This file will be deleted soon I hope
